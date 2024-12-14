@@ -59,6 +59,8 @@ public class AutomateDownload {
             folder.click(); // Click on the folder
             System.out.println("Folder selected!");
 
+            //random
+
             // Additional actions can be added here
             Thread.sleep(2000);
 
