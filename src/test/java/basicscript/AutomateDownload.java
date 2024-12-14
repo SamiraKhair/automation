@@ -58,7 +58,7 @@ public class AutomateDownload {
             WebElement folder = driver.findElement(By.xpath("//span[@class='label' and text()='2024']")); // Replace with actual XPath
             folder.click(); // Click on the folder
             System.out.println("Folder selected!");
-
+            //..
             //random
 
             // Additional actions can be added here
